@@ -95,4 +95,12 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
