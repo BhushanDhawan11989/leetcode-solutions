@@ -88,3 +88,11 @@ Recruiters can easily check my problem-solving consistency through commit histor
 If you find this helpful, feel free to star ⭐ the repository.
 
 Happy Coding! 😄
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
