@@ -99,8 +99,10 @@ Happy Coding! 😄
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/BhushanDhawan11989/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
